@@ -1,0 +1,9 @@
+numpy
+pandas
+sklearn
+keras
+tensorflow
+plotly
+matplotlib
+seaborn
+json
